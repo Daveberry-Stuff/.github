@@ -6,7 +6,9 @@
 Yeah, just basically his own little projects. <br>
 Nothing too crazy about it.
 
-But hey, feel free to do PR's or make issues. <br> <br>
+But hey, feel free to do PR's or make issues.
+
+---
 
 <div align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats"target="_blank">
